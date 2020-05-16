@@ -1,0 +1,14 @@
+{
+  "host": "89.223.123.251",
+  "port": "1337}",
+  "production": true,
+  "proxy": {
+    "enabled": false
+  },
+  "cron": {
+    "enabled": false
+  },
+  "admin": {
+    "autoOpen": false
+  }
+}
